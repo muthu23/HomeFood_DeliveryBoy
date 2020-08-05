@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorWhite"
+    tools:context="com.foodondoor.delivery.activities.Splash">
+
+
+    <ImageView
+        android:layout_width="@dimen/_220sdp"
+        android:layout_height="@dimen/_220sdp"
+        android:layout_centerInParent="true"
+        android:contentDescription="@string/image_view"
+        android:scaleType="centerInside"
+        android:src="@drawable/logo_app" />
+
+</RelativeLayout>
+

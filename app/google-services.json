@@ -1,0 +1,265 @@
+{
+  "project_info": {
+    "project_number": "518601616442",
+    "firebase_url": "https://homefoods-48477.firebaseio.com",
+    "project_id": "homefoods",
+    "storage_bucket": "homefoods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518601616442:android:82b12f6a4650f675975903",
+        "android_client_info": {
+          "package_name": "com.homefood.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518601616442-msu16d04h70m28nej4brqaajp6i1mrri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefood.app",
+            "certificate_hash": "858d796cd8dd9635224cc8a5ad2acb1f06f0b8ea"
+          }
+        },
+        {
+          "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiNKYbq4tOUOkNnqABU02WQtgSHgCWV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518601616442:android:d4742d7057e80967975903",
+        "android_client_info": {
+          "package_name": "com.homefood.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518601616442-i0i6sra45bt6jvghffetqcmdib6i4ruv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefood.delivery",
+            "certificate_hash": "858d796cd8dd9635224cc8a5ad2acb1f06f0b8ea"
+          }
+        },
+        {
+          "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiNKYbq4tOUOkNnqABU02WQtgSHgCWV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518601616442:android:d951d80ae86992c4975903",
+        "android_client_info": {
+          "package_name": "com.homefood.restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518601616442-1kbbga4g0dp0rg7deisb9d8lk9ie4jm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefood.restaurant",
+            "certificate_hash": "858d796cd8dd9635224cc8a5ad2acb1f06f0b8ea"
+          }
+        },
+        {
+          "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiNKYbq4tOUOkNnqABU02WQtgSHgCWV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518601616442:android:55ba9ed08d76b075",
+        "android_client_info": {
+          "package_name": "com.homefoods.deliver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518601616442-6t6cmnga6lesi64qteqn7jpi4n2nlkp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefoods.deliver",
+            "certificate_hash": "80e0b57ea1e0fd0b26742e3d1e0539c20d00d917"
+          }
+        },
+        {
+          "client_id": "518601616442-o94h0kftcvcp0kb6h6gsvp9efgguq637.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefoods.deliver",
+            "certificate_hash": "bfc5cfc24e1ba6730b73875c498453c7ce6c244b"
+          }
+        },
+        {
+          "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiNKYbq4tOUOkNnqABU02WQtgSHgCWV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518601616442:android:f00399f8b9a78844",
+        "android_client_info": {
+          "package_name": "com.homefoods.outlet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518601616442-5kj4d4m0pcvpnm4d1fb5kmunddmmnopp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefoods.outlet",
+            "certificate_hash": "80e0b57ea1e0fd0b26742e3d1e0539c20d00d917"
+          }
+        },
+        {
+          "client_id": "518601616442-oq2al1i1b9ic324vfoqhb3odfn9lqobk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefoods.outlet",
+            "certificate_hash": "bfc5cfc24e1ba6730b73875c498453c7ce6c244b"
+          }
+        },
+        {
+          "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiNKYbq4tOUOkNnqABU02WQtgSHgCWV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518601616442:android:d889ca67d21dd5d5",
+        "android_client_info": {
+          "package_name": "com.homefoods.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518601616442-lf6k1vdcs0jtt313hbnl36hlfc8npsv8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefoods.user",
+            "certificate_hash": "bfc5cfc24e1ba6730b73875c498453c7ce6c244b"
+          }
+        },
+        {
+          "client_id": "518601616442-dakjoj63nabs3dutcfk95aifclosq832.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefoods.user",
+            "certificate_hash": "80e0b57ea1e0fd0b26742e3d1e0539c20d00d917"
+          }
+        },
+        {
+          "client_id": "518601616442-96mhvnm6gvci6id1dvra7rsdgk2hkp8h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.homefoods.user",
+            "certificate_hash": "5289cdb2eac09f6da26ec2dac068426dc45a4cfa"
+          }
+        },
+        {
+          "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOiNKYbq4tOUOkNnqABU02WQtgSHgCWV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518601616442-uam3qa67esatpr8irf8a9ccuh9v097i6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
